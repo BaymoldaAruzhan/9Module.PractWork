@@ -129,7 +129,6 @@ namespace _9_Module.PractWork
             Console.WriteLine($"HDD: {name}, Model: {model}, USB Speed: {usbSpeed} MB/s, Partitions: {partitions}, Partition Size: {partitionSize} GB");
         }
     }
-
     class Program
     {
         static void Main()
